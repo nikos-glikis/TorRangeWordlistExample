@@ -1,14 +1,6 @@
 package com.object0r.TorRange.examples.WordlistExample;
 
 import com.object0r.TorRange.TorWorker;
-import com.object0r.TorRange.helpers.TorRangeHttpHelper;
-import com.object0r.toortools.Utilities;
-import com.object0r.toortools.http.HttpHelper;
-import com.object0r.toortools.http.HttpRequestInformation;
-import com.object0r.toortools.http.HttpResult;
-import com.sun.deploy.net.URLEncoder;
-
-import java.io.UnsupportedEncodingException;
 
 public class WordlistConsumerWorkerExample extends TorWorker
 {
